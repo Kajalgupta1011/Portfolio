@@ -7,9 +7,10 @@
 .front{
 	height: 100vh;
 	width: 100%;
-	background-image: url("https://media.gettyimages.com/photos/hispanic-woman-looking-up-into-light-picture-id487703773?s=612x612");
+	background-color: #000;
+	background-image: url("img/background.jpg");
 	background-size: cover;
-	background-position: center;
+	background-position: center; 
 }
 nav{
 	display: flex;
